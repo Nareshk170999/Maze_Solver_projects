@@ -1,6 +1,6 @@
 package org.example;
 /*
- * @AccioJob March Module D Project Session
+ * @AccioJob March Module D Project - Maze Solver
  * @authors - NareshKumar.K
  * */
 import java.util.List;

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="389f0901-52e7-4ac0-8800-1185dafe9ba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DepthFirstSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/newclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NewClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.newclass">
+  <component name="RunManager" selected="Application.NewClass">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Maze_Solver" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="newclass" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.newclass" />
+    <configuration name="NewClass" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NewClass" />
       <module name="Maze_Solver" />
       <extension name="coverage">
         <pattern>
@@ -95,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679195663401</updated>
       <workItem from="1679195664576" duration="3937000" />
-      <workItem from="1679202580888" duration="2143000" />
+      <workItem from="1679202580888" duration="4572000" />
     </task>
     <servers />
   </component>
