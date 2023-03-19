@@ -29,7 +29,7 @@ public class NewClass extends JFrame {
         setTitle("Maze Solver");
         setSize(640,720);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        DepthFirstSearch.searchpath(maze,1,1,path);
+       DepthFirstSearch.searchpath(maze,1,1,path);
         System.out.println(path);
     }
     @Override
